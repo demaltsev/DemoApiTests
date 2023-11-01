@@ -1,1 +1,1 @@
-API Test for requres.in by using Rest Assured.
+API Test for reqres.in by using Rest Assured.
